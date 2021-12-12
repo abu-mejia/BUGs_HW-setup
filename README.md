@@ -28,3 +28,9 @@ Spectral decomposition which examines the covariances / correlations between var
 Singular value decomposition which examines the covariances / correlations between individuals
 
 The function **princomp()** uses the spectral decomposition approach. The functions **prcomp()** and **PCA()**[FactoMineR] use the singular value decomposition (SVD).
+
+---
+
+##### This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement № 818182
+![H2020-Emblem_Horizontal_PNG](https://user-images.githubusercontent.com/22096475/145731840-b03cc574-66ef-4b42-b0af-24c1f6fda8b3.png)
+
